@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+openai
+unstructured
+chromadb
+Cython
+tiktoken
+langchain
+pypdf2
+python-dotenv
+weasyprint
+matplotlib
